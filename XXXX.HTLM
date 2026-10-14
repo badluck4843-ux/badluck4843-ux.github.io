@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KRUSTY HACK | Ethical Hacker</title>
+<style>
+body{background:#070707;color:#e0e0e0;font-family:monospace;display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:100vh;margin:0;text-align:center;padding:20px}
+h1{font-size:3rem;margin:10px 0 5px;letter-spacing:5px;color:#fff}
+h2{color:#00FF41;letter-spacing:6px;font-size:0.9rem;margin:0;font-weight:400}
+.card{border:1px solid #1a1a1a;background:#0f0f0f;padding:35px 40px;margin-top:25px;max-width:480px;width:100%;box-sizing:border-box}
+.badge{display:inline-block;border:1px solid #00FF41;color:#00FF41;padding:4px 12px;font-size:0.65rem;letter-spacing:2px;margin-bottom:15px}
+p{color:#888;font-size:0.85rem;line-height:1.6}
+p.green{color:#00FF41}
+a.btn{color:#000;background:#00FF41;padding:12px 28px;text-decoration:none;display:inline-block;margin-top:20px;letter-spacing:2px;font-weight:700}
+a.btn:hover{background:#fff}
+a.link{color:#666;text-decoration:none;font-size:0.8rem;margin-top:15px;display:block}
+img{width:220px;margin-bottom:10px}
+</style>
+</head>
+<body>
+<img src="krusty-ethical.svg" alt="logo">
+<h1>KRUSTY HACK</h1>
+<h2>ETHICAL HACKER | U.A.R.</h2>
+<div class="card">
+<span class="badge">WHITE HAT // BUG HUNTER</span>
+<p class="green">> Securing systems, not breaking them.</p>
+<p>Me especializo en encontrar vulnerabilidades antes que los malos. Bug bounty, pentesting y seguridad defensiva.</p>
+<p style="color:#555;font-size:0.7rem;margin-top:20px">Responsible Disclosure • Ethical Hacking Only</p>
+<a class="btn" href="https://github.com/badluck4843">GITHUB</a>
+<a class="link" href="#">badluck4843@proton.me</a>
+</div>
+</body>
+</html>
